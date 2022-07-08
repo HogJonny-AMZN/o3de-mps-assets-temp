@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder pbr_material_pack/Assets": {
+                    "watch": "@GEMROOT:pbr_material_pack@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder pbr_material_pack/Registry": {
+                    "watch": "@GEMROOT:pbr_material_pack@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
